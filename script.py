@@ -97,6 +97,3 @@ def run(filename):
 
         elif command[0] == 'display':
             display(screen)
-
-run('script.mdl')
-    
